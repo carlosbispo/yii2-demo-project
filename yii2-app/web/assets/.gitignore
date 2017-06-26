@@ -1,0 +1,15 @@
+*
+!.gitignore
+!css
+!css/**
+!fonts
+!fonts/**
+!images
+!images/**
+!js/
+!js/**
+!js/libs/
+!js/libs/*
+
+
+
